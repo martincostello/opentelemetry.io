@@ -1,6 +1,6 @@
 ---
 title: サンプルによる入門
-description: 5分以内にアプリのテレメトリを取得しましょう！
+description: 5分以内にアプリのテレメトリーを取得しましょう！
 weight: 10
 default_lang_commit: beb85b4f56de76aa8a8d6e96cd7528396476f95a
 ---
@@ -229,9 +229,9 @@ value=8192, exemplars=[]}], monotonic=false, aggregationTemporality=CUMULATIVE}}
 
 詳細については。
 
-- この例を別の[エクスポーター][exporter]でテレメトリデータ用に実行してください。
+- この例を別の[エクスポーター][exporter]でテレメトリーデータ用に実行してください。
 - 自分のアプリの1つで[ゼロコード計装](/docs/zero-code/java/agent/)を試してください。
-- 軽量なカスタマイズされたテレメトリについては、[アノテーション][annotations]を試してください。
+- 軽量なカスタマイズされたテレメトリーについては、[アノテーション][annotations]を試してください。
 - [手動計装][manual instrumentation]について学び、さらに多くの[例](../examples/)を試してください。
 - Javaベースの[広告サービス](/docs/demo/services/ad/)とKotlinベースの[不正検出サービス](/docs/demo/services/fraud-detection/)を含む[OpenTelemetryデモ](/docs/demo/)をご覧ください。
 
