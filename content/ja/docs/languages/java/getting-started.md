@@ -10,7 +10,7 @@ default_lang_commit: beb85b4f56de76aa8a8d6e96cd7528396476f95a
 
 このページでは、JavaでOpenTelemetryを始める方法を紹介します。
 
-シンプルなJavaアプリケーションを自動的に計装する方法を学び、[トレース][trace]、[メトリクス][metrics]、および[ログ][logs]がコンソールに出力されるようになります。
+シンプルなJavaアプリケーションを自動的に計装する方法を学び、[トレース][trace]、[メトリクス][metrics]、および[ログ][logs]がコンソールに出力されるようにします。
 
 ## 前提条件 {#prerequisites}
 
